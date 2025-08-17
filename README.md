@@ -1,4 +1,5 @@
-# belajar-kolaborasi
-- ini kolab 1
-- ini kolab 2
-- ini kolab 3
+
+# Belajar Kolaborasi
+Belajar GitHub itu keren.<br>
+Mendokumentasikan dengan GitHub menjadi lebih mudah.<br>
+Manajemen kode menjadi lebih mudah berkat GitHub
