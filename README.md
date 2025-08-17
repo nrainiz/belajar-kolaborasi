@@ -1,4 +1,4 @@
 # belajar-kolaborasi
-- kolaborasi tahap 1
-- kolaborasi tahap 2
-- kolaborasi tahap 3
+- ini kolab 1
+- ini kolab 2
+- ini kolab 3
